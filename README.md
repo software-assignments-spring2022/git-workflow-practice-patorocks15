@@ -9,3 +9,6 @@ This article is interesting because I am a huge fan of mine sweeper. I play dail
 ### Hi Pato! 
 A minesweeper AI sounds really cool:) 
 -Jinju Lima 
+
+###Edit by: Sid Wang
+The way I used to play minesweeper when I was a child is randomly click at any place. I considered it as a lottery game and never tried to dig deeper into it. I like the article but it doesn't actually discuss the actual code used for the algorithms.
